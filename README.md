@@ -9,3 +9,7 @@
 - 23.6M Rows
 - 24 Columns
 - Each row is an individual product purchase
+
+## Team
+- [Johannes](https://github.com/JP586)
+- [Minjin](https://github.com/mintysnow)
