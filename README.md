@@ -4,3 +4,8 @@
 
 ## Data Provided by:
 - Iowa Department of Commerce, Alcoholic Beverages Division
+
+## What's in this Dataset?
+- 23.6M Rows
+- 24 Columns
+- Each row is an individual product purchase
