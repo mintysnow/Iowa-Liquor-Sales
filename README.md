@@ -10,3 +10,7 @@
 - 23.6M Rows
 - 24 Columns
 - Each row is an individual product purchase
+
+## Project Purposee
+- Focused on Hy-vee stores and took a look at total sale to see if pricing strategy can be improved.
+- Used Apriori algorithm to conduct a market basket analysis.
